@@ -7,3 +7,5 @@
 
 **OT7**. Expresar o comunicar con el vocabulario y lenguaje adecuado/especializado las ideas principales sobre estructuras discretas o la programación funcional.
 
+**Link al enunciado**
+
